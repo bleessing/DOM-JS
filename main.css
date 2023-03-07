@@ -1,0 +1,17 @@
+#parent input{
+    color: red;
+}
+
+.colored{
+    color: green;
+}
+.texted1{
+    text-decoration: line-through;
+}
+.texted2{
+    text-decoration: underline;
+}
+
+#elem.active{
+    display: block;
+}
